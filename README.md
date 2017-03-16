@@ -1,1 +1,2 @@
 # Stock-management-system
+This is desktop based application that manages the stock of a store that is stored in database. This system has options of adding stock, retrieving stock, retrieving particular data from the stock, look at current stock, fetch and delete stock, add customers and stakeholders account and sale items from stock. This application is based on Swing (Java) using Netbeans 8.1 tool.
